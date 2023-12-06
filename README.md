@@ -11,3 +11,9 @@ Currently, two official plugins are available:
 # showDoMilhao
 Show do milhão, acerte a palavra com React
 >>>>>>> 015a2f022456b5168aa521d9bda5bfe57ad88ac6
+
+## instalação:
+siga os paços abaixo:
+### 1. instale o [node](https://nodejs.org/)
+### 2. rode `npm install`
+### 2. rode `npm run dev`
